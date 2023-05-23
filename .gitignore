@@ -1,0 +1,9 @@
+/target
+/Cargo.lock
+
+# FFI build artifact
+*.dll
+*.so
+*.h
+*.o
+main/main
